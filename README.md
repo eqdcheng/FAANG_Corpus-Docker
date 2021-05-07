@@ -1,4 +1,4 @@
-## Corpus creation
+## FAANG MANA Corpus
 
 ### The goal of our corpus was to scrape posts from various finance-related subreddits to see if there is any correlation between the post's sentiment and the respective stock price.
 
